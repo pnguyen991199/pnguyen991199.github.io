@@ -9,7 +9,7 @@ My GitHub page is [http://github.com/pnguyen991199](http://github.com/pnguyen991
 ### CPSC 120
 
 * Lab 1 
-    is my favorite lab because it was my first time coding. I still remember that day, everything was new to me, and I felt nervous. When practicing, the lab was easy because we just followed the instructions and changed the words in the "Hello World" string and printed it out.
+    was my favorite lab because it was my first time coding. I still remember that day, everything was new to me, and I felt nervous. When practicing, the lab was easy because we just followed the instructions and changed the words in the "Hello World" string and printed it out.
 * Lab 7
     was also one of my favorites because I learned how real parking signs can be turned into code. It was very cool to use code to solve real world problems. I was able to write functions that check the day, hour, and minute to decide if parking is allowed or not allowed on different streets. We used if statements in this lab.
 * Lab 9
