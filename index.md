@@ -4,7 +4,7 @@ This is my home page! My name is Oscar Nguyen and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/pnguyen991199/
+My GitHub page is [http://github.com/pnguyen991199](http://github.com/pnguyen991199/).
 
 ### CPSC 120
 
